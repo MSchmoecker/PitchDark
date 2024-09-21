@@ -1,0 +1,9 @@
+﻿{
+    "name": "PitchDark",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/MSchmoecker/PitchDark",
+    "description": "Changes the player and torch lights to be have a shorter range. Without a torch or Gloweed, it's pitch dark",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
